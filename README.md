@@ -1,6 +1,6 @@
 # CPU Temperature
 
-This widget is designed to display real-time CPU and SSD temperatures on your desktop or system panel. With a simple and informative interface, the widget allows users to monitor CPU core temperatures (Core 0 and Core 2) and SSD temperatures easily.
+This widget is for Linux debian and derivatives, using DE KDE plasma and is designed to display real-time CPU and SSD temperatures on your desktop or system panel. With a simple and informative interface, this widget allows users to monitor CPU core temperatures (Core 0, Core 2 and others) and SSD temperatures easily.
 
 ### Key Features:
 - **CPU Temperature Display**: Displays the average CPU temperature and the temperature of each core (Core 0 and Core 2).
