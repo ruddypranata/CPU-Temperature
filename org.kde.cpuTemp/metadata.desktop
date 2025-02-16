@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=CPU Temperature
+Comment=Displays CPU temperature in real-time
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+Icon=utilities-terminal
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Name=org.kde.cpuTemp
+X-KDE-PluginInfo-Author=RuddyPranata
+X-KDE-PluginInfo-Email=ruddy.pranata@gmail.com
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Category=System Monitor
+X-KDE-ConfigModule=config.qml
